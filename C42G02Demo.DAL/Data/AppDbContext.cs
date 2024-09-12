@@ -24,5 +24,6 @@ namespace C42G02Demo.DAL.Data
         }
 
         public DbSet <Department>  Departments { get; set; }
+        //MVC03 Demo
     }
 }
